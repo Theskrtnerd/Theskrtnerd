@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm a first year student specialising in Computer Science
+# Hi there👋
+Currently a first-year student at the University of Adelaide, I'm interested in applying technology, especially AI/ML, to the healthcare industry. Since I was a small child, I have always loved mathematics. I was mesmerized by how a difficult math problem can be solved using a series of simple logic. Growing older, I discovered programming, which was a whole new world. From web and mobile development to data science and machine learning, each time I discovered something new, I immediately learned the tool required from YouTube, whether it's Django, Flutter, or most recently, TensorFlow. As both of my parents are medical doctors, I want to delve myself into MedTech and continue my family's tradition of saving people's lives, but with my own knowledge and technology.
 <!--
 **Theskrtnerd/Theskrtnerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

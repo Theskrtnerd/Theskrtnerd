@@ -2,7 +2,7 @@
 
 # Hello, I'm Bach Tran 👋
 
-I'm a first-year student passionate about MedTech. Check out my blog for more of my work.
+I'm a first-year student passionate about MedTech. Check out my website for more of my work.
 
 ## 🔧 Technologies & Tools
 

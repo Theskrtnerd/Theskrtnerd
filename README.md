@@ -15,9 +15,7 @@ I'm a first-year student passionate about MedTech. Check out my website for more
 
 ## 🌐 Connect with Me
 
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or project ideas. Let's build something amazing together! 🚀
